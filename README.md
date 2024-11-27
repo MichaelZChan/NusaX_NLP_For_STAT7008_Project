@@ -9,3 +9,6 @@ Or you can download the datasets manually from directory nusax, which is totally
 (b)Hutto, Clayton, and Eric Gilbert. "Vader: A parsimonious rule-based model for sentiment analysis of social media text." Proceedings of the international AAAI conference on web and social media. Vol. 8. No. 1. 2014.
 
 (c)Mikolov, Tomas, et al. "Efficient estimation of word representations in vector space." arXiv preprint arXiv:1301.3781 (2013).
+
+# Data loading
+Please download data_loading.ipynb or data_loading.html for detail.
